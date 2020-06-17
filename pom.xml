@@ -73,8 +73,7 @@
 						<configuration>
 							<artifactItems>
 								<artifactItem>
-									<groupId>Favoris</groupId>
-									<artifactId>Shop</artifactId>
+									<artifactId>spring-boot-sample-web-jsp</artifactId>
 									<version>1.0</version>
 									<destFileName>shop.jar</destFileName>
 								</artifactItem>
